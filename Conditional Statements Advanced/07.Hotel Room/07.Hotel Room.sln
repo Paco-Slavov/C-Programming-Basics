@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Hotel Room", "07.Hotel Room.csproj", "{C8A405F9-9718-47D6-B74C-D119A12CCF97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.On Time for the Exam", "..\08.On Time for the Exam\08.On Time for the Exam.csproj", "{71DF6A19-345A-4A8A-AFDA-7F756FA62375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8A405F9-9718-47D6-B74C-D119A12CCF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A405F9-9718-47D6-B74C-D119A12CCF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A405F9-9718-47D6-B74C-D119A12CCF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A405F9-9718-47D6-B74C-D119A12CCF97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DF6A19-345A-4A8A-AFDA-7F756FA62375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DF6A19-345A-4A8A-AFDA-7F756FA62375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DF6A19-345A-4A8A-AFDA-7F756FA62375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DF6A19-345A-4A8A-AFDA-7F756FA62375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C4345F-B656-4411-A834-F675A6F6A048}
+	EndGlobalSection
+EndGlobal
